@@ -46,7 +46,7 @@ for i in range(1, 15):
     if player_Choice == 'help':
         print('''
         >Paper for paper
-        >Scissir for scissor
+        >Scissor for scissor
         >Rock for rock
         >quit to quit the game[y -- yes , n -- no]
         ''')
